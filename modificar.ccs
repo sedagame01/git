@@ -1,0 +1,6 @@
+ .relativo {
+    position: relative;
+    top: 10px; /* Mueve el párrafo 10px hacia abajo */
+    left: 20px; /* Mueve el párrafo 20px hacia la derecha */
+    }
+.contenedor
